@@ -10,13 +10,14 @@ namespace ContextActionXamarin.Views
 	{
 		public ContentActionView ()
 		{
+			
 			InitializeComponent ();
 			this.BindingContext = new FoodViewModel();
 		}
 
 		public void OnItemSelected(object sender, ItemTappedEventArgs args)
 		{
-			Navigation.PushModalAsync (new StackLabelView ());
+			Navigation.PushModalAsync (new ContentActionView ());
 		}
 	}
 }

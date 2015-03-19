@@ -1,1 +1,18 @@
-﻿<Properties StartupItem="Droid/ContextAction-Xamarin.Droid.csproj" />
+﻿<Properties StartupItem="iOS/ContextAction-Xamarin.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.077ca8cb13ca8d07" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContextAction-Xamarin/ViewModels/FoodViewModel.cs">
+    <Files>
+      <File FileName="ContextAction-Xamarin/Views/ContentActionView.xaml" Line="8" Column="55" />
+      <File FileName="ContextAction-Xamarin/Views/ContentActionView.xaml.cs" Line="15" Column="4" />
+      <File FileName="ContextAction-Xamarin/Models/Food.cs" Line="19" Column="4" />
+      <File FileName="ContextAction-Xamarin/Helpers/Grouping.cs" Line="9" Column="15" />
+      <File FileName="ContextAction-Xamarin/ViewModels/FoodViewModel.cs" Line="4" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Desktop/Photoshelter1/PhotoShelter/Views/ImagesView/Gallery/GalleryDetailView.xaml.cs" line="98" offsetX="856" offsetY="1455" expression="recentAcitivity" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

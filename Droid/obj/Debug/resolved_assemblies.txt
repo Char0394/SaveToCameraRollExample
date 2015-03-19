@@ -1,10 +1,10 @@
-/Users/Charline/Projects/ContextAction-Xamarin/Droid/bin/Debug/ContextAction-Xamarin.Droid.dll
-/Users/Charline/Projects/ContextAction-Xamarin/packages/Xamarin.Android.Support.v4.19.1.0/lib/MonoAndroid10/Xamarin.Android.Support.v4.dll
-/Users/Charline/Projects/ContextAction-Xamarin/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
-/Users/Charline/Projects/ContextAction-Xamarin/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/FormsViewGroup.dll
-/Users/Charline/Projects/ContextAction-Xamarin/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/Xamarin.Forms.Core.dll
-/Users/Charline/Projects/ContextAction-Xamarin/packages/Xamarin.Forms.1.3.1.6296/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
-/Users/Charline/Projects/ContextAction-Xamarin/ContextAction-Xamarin/bin/Debug/ContextAction-Xamarin.dll
+/Users/Charline/Projects/ListViewPullRefresh/Droid/bin/Debug/ContextAction-Xamarin.Droid.dll
+/Users/Charline/Projects/ListViewPullRefresh/packages/Xamarin.Android.Support.v4.21.0.3.0/lib/MonoAndroid10/Xamarin.Android.Support.v4.dll
+/Users/Charline/Projects/ListViewPullRefresh/packages/Xamarin.Forms.1.4.0.6341/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
+/Users/Charline/Projects/ListViewPullRefresh/packages/Xamarin.Forms.1.4.0.6341/lib/MonoAndroid10/FormsViewGroup.dll
+/Users/Charline/Projects/ListViewPullRefresh/packages/Xamarin.Forms.1.4.0.6341/lib/MonoAndroid10/Xamarin.Forms.Core.dll
+/Users/Charline/Projects/ListViewPullRefresh/packages/Xamarin.Forms.1.4.0.6341/lib/MonoAndroid10/Xamarin.Forms.Xaml.dll
+/Users/Charline/Projects/ListViewPullRefresh/ContextAction-Xamarin/bin/Debug/ContextAction-Xamarin.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.Concurrent.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.Collections.dll
 /Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/Facades/System.ComponentModel.Annotations.dll

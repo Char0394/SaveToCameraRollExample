@@ -10,7 +10,7 @@ namespace ContextActionXamarin
 		public App ()
 		{
 			// The root page of your application
-			MainPage = new TabbedView ();
+			MainPage = new ContentActionView ();
 
 		}
 
